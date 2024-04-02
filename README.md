@@ -59,8 +59,13 @@ John received 100 marks
 Smith received 90 marks 
 David received 80 marks
 ```
+![Build](week08/Screenshots/cargo_build.png)
 
+![Build](week08/Screenshots/cargo_run.png)
 
 ## Testing Report
 
 The tool includes unit tests for the `ingest_data` and `process_data` functions. These tests check that the functions correctly ingest and process the data. You can run the tests with the `cargo test` command.
+
+![Build](week08/Screenshots/Tests_passed.png)
+
